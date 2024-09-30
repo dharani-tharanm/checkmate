@@ -1,5 +1,7 @@
 # 1. Introduction to Jenkins Pipelines
 
+![Jenkins Pipeline Banner](https://miro.medium.com/v2/resize:fit:1200/1*sUxhXLGgWZCAj4ot2gElDw.png)
+
 ## Overview
 Jenkins is one of the most popular automation servers, widely used for Continuous Integration (CI) and Continuous Delivery (CD) pipelines. A Jenkins pipeline is a suite of plugins that support the implementation and integration of a continuous delivery pipeline. It automates tasks such as building, testing, and deploying applications, ensuring a streamlined CI/CD process.
 
